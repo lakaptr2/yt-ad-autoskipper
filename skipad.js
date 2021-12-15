@@ -199,7 +199,7 @@
       checkAndClickButtons();
 
       initTimeout();
-    }, 2000);
+    }, 30000);
   }
 
   /**
